@@ -16,12 +16,12 @@ Clone or download the repo to your local computer. Launch the LabView project fi
 The Thorlabs drivers file `WFS_32.dll` should be already added to system path if you successfully installed Thorlabs software for the instrument.
 
 For LabView project, run the `WFS_Thorlabs_testPanel.VI`, see below
-![WFS_Thorlabs_testPanel.VI]("/screenshots/LV-tree.png")
+![WFS_Thorlabs_testPanel.VI](/screenshots/LV-tree.png)
 
 For python control code, start with Jupyter notebook `Thorlabs-WFS-HelloWorld.ipynb`.
 
 ## Screenshot
-![LabView front panel]("/screenshots/WFS_Thorlabs_testPanel.png")
+![LabView front panel](/screenshots/WFS_Thorlabs_testPanel.png)
 
 
 ## Acknowledgements
