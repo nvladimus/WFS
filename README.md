@@ -7,7 +7,9 @@ LabView 2016 32-bit
 
 [Jupyter Notebook](http://jupyter.org/install), recommended installation: Anaconda, Python 2.7, 32-bit.
 
-[Thorlabs WFS150-7AR sensor software](https://www.thorlabs.de/software_pages/viewsoftwarepage.cfm?code=WFS), for drivers.
+[Thorlabs WFS software](https://www.thorlabs.de/software_pages/viewsoftwarepage.cfm?code=WFS), for drivers.
+
+[Thorlabs WFS150-7AR sensor](https://www.thorlabs.de/thorproduct.cfm?partnumber=WFS150-7AR).
 
 ## Installation
 Clone or download the repo to your local computer. Launch the LabView project file `WFS-control.lvproj`.
